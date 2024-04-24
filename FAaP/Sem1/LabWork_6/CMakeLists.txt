@@ -1,0 +1,25 @@
+cmake_minimum_required(VERSION 3.26)
+project(Laba_6)
+
+set(CMAKE_CXX_STANDARD 17)
+
+enable_testing()
+add_subdirectory(Tests/lib/googletest-main)
+
+add_executable(task1 Solves/1.cpp)
+add_executable(task2 Input/Input.cpp Input/Input.h Solves/2.cpp)
+add_executable(task3 Input/Input.cpp Input/Input.h Solves/3.cpp)
+add_executable(task4 Input/Input.cpp Input/Input.h Solves/4.cpp)
+add_executable(task5 Input/Input.cpp Input/Input.h Solves/5.cpp)
+add_executable(task6 Input/Input.cpp Input/Input.h Solves/6.cpp)
+add_executable(task7 Input/Input.cpp Input/Input.h Solves/7.cpp)
+add_executable(task8 Input/Input.cpp Input/Input.h Solves/8.cpp)
+
+add_executable(Test_6 TestsCode/6/6.cpp TestsCode/6/Tests6.cpp)
+target_link_libraries(Test_6 gmock pthread)
+add_executable(Test_7 TestsCode/7/7.cpp TestsCode/7/Tests7.cpp)
+target_link_libraries(Test_7 gmock pthread)
+add_executable(Test_8 TestsCode/8/8.cpp TestsCode/8/Tests8.cpp)
+target_link_libraries(Test_8 gmock pthread)
+add_executable(Test_5 TestsCode/5/5.cpp TestsCode/5/Tests5.cpp)
+target_link_libraries(Test_5 gmock pthread)

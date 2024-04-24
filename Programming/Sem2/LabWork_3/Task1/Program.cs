@@ -1,0 +1,1 @@
+﻿Task1.ProblemSolver.Solve();

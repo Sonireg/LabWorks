@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.26)
+project(Laba_1)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(l11 Problem1.cpp)
+add_executable(l12 Problem2.cpp)
+add_executable(l13 Problem3.cpp)
+add_executable(l14 Problem4.cpp)
+add_executable(l15 Problem5.cpp)
+add_executable(l161 Problem61.cpp)
+add_executable(l162 Problem62.cpp)
+add_executable(l163 Problem63.cpp)
+add_executable(l167 Problem67.cpp)
+add_executable(l168 Problem68.cpp)
+add_executable(l17 Problem7.cpp)
+add_executable(l18 Problem8.cpp)
+add_executable(l19 Problem9.cpp)

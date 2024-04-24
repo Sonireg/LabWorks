@@ -1,0 +1,15 @@
+D:/Programming/Laby/Laba 1/cmake-build-debug/CMakeFiles/l11.dir
+D:/Programming/Laby/Laba 1/cmake-build-debug/CMakeFiles/l12.dir
+D:/Programming/Laby/Laba 1/cmake-build-debug/CMakeFiles/l13.dir
+D:/Programming/Laby/Laba 1/cmake-build-debug/CMakeFiles/l14.dir
+D:/Programming/Laby/Laba 1/cmake-build-debug/CMakeFiles/l15.dir
+D:/Programming/Laby/Laba 1/cmake-build-debug/CMakeFiles/l161.dir
+D:/Programming/Laby/Laba 1/cmake-build-debug/CMakeFiles/l162.dir
+D:/Programming/Laby/Laba 1/cmake-build-debug/CMakeFiles/l163.dir
+D:/Programming/Laby/Laba 1/cmake-build-debug/CMakeFiles/l167.dir
+D:/Programming/Laby/Laba 1/cmake-build-debug/CMakeFiles/l168.dir
+D:/Programming/Laby/Laba 1/cmake-build-debug/CMakeFiles/l17.dir
+D:/Programming/Laby/Laba 1/cmake-build-debug/CMakeFiles/l18.dir
+D:/Programming/Laby/Laba 1/cmake-build-debug/CMakeFiles/l19.dir
+D:/Programming/Laby/Laba 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/Laby/Laba 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

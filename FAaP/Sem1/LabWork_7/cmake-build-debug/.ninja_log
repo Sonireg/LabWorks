@@ -1,0 +1,14 @@
+# ninja log v5
+683	1677	7230733467268717	cf.exe	4aeaac522a02c992
+7	1055	7230635148594084	CMakeFiles/Problem2.dir/InputCheck/InputBinary.cpp.obj	b90444be9e032d9c
+476	596	7230598605136324	Check.exe	5e1035fdb020303d
+4	3657	7230628405348941	CMakeFiles/Problem1.dir/Problem1/1.cpp.obj	ffbfeb0f5da2fa08
+3658	4455	7230628413285118	Problem1.exe	6147ab6e410c35f7
+1	2164	7230613671724964	CMakeFiles/Problem1.dir/InputCheck/InputBinary.cpp.obj	4c085eb2ec93c743
+23	6893	7233910892353528	CMakeFiles/Problem2.dir/Problem2/2.cpp.obj	8d8627bf442b292
+6920	10088	7233910924911940	Problem2.exe	dc0f283a915dc0da
+4	2554	7231672522322098	CMakeFiles/Problem3.dir/Problem3/3.cpp.obj	dfcf72eb4386d2ad
+2555	2726	7231672524012486	Problem3.exe	9b247c0f5b67d0c7
+14	3511	7232024289271377	CMakeFiles/Problem6.dir/Problem6/6.cpp.obj	4cf5852ec891cd56
+30	4399	7232019107066837	CMakeFiles/Problem6.dir/InputCheck/Input.cpp.obj	a5ed30013609f161
+3512	4160	7232024295789095	Problem6.exe	fd040f4c6a087c57

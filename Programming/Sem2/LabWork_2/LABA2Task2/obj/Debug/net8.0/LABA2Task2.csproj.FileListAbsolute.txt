@@ -1,0 +1,14 @@
+D:\Programming_C#\StudyProjects\LAB2\LABA2Task2\bin\Debug\net8.0\LABA2Task2.exe
+D:\Programming_C#\StudyProjects\LAB2\LABA2Task2\bin\Debug\net8.0\LABA2Task2.deps.json
+D:\Programming_C#\StudyProjects\LAB2\LABA2Task2\bin\Debug\net8.0\LABA2Task2.runtimeconfig.json
+D:\Programming_C#\StudyProjects\LAB2\LABA2Task2\bin\Debug\net8.0\LABA2Task2.dll
+D:\Programming_C#\StudyProjects\LAB2\LABA2Task2\bin\Debug\net8.0\LABA2Task2.pdb
+D:\Programming_C#\StudyProjects\LAB2\LABA2Task2\obj\Debug\net8.0\LABA2Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming_C#\StudyProjects\LAB2\LABA2Task2\obj\Debug\net8.0\LABA2Task2.AssemblyInfoInputs.cache
+D:\Programming_C#\StudyProjects\LAB2\LABA2Task2\obj\Debug\net8.0\LABA2Task2.AssemblyInfo.cs
+D:\Programming_C#\StudyProjects\LAB2\LABA2Task2\obj\Debug\net8.0\LABA2Task2.csproj.CoreCompileInputs.cache
+D:\Programming_C#\StudyProjects\LAB2\LABA2Task2\obj\Debug\net8.0\LABA2Task2.dll
+D:\Programming_C#\StudyProjects\LAB2\LABA2Task2\obj\Debug\net8.0\refint\LABA2Task2.dll
+D:\Programming_C#\StudyProjects\LAB2\LABA2Task2\obj\Debug\net8.0\LABA2Task2.pdb
+D:\Programming_C#\StudyProjects\LAB2\LABA2Task2\obj\Debug\net8.0\LABA2Task2.genruntimeconfig.cache
+D:\Programming_C#\StudyProjects\LAB2\LABA2Task2\obj\Debug\net8.0\ref\LABA2Task2.dll

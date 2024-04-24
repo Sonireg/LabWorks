@@ -1,0 +1,186 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Laba_3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_31::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_31-Debug-cd818109110c5dde011f.json",
+					"name" : "Laba_31",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_32::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_32-Debug-58af1ee9fdda64619186.json",
+					"name" : "Laba_32",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_33::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_33-Debug-98e7a567e5b95f20dd73.json",
+					"name" : "Laba_33",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_341::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_341-Debug-dddf2c9d9d4f5e6d7abf.json",
+					"name" : "Laba_341",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_342::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_342-Debug-a70626e53e0169c5e691.json",
+					"name" : "Laba_342",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_35::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_35-Debug-74e4813af7be333bb3b0.json",
+					"name" : "Laba_35",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_36::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_36-Debug-e162304f9de699aed27a.json",
+					"name" : "Laba_36",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_37::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_37-Debug-0a57bf102b14a6a4293e.json",
+					"name" : "Laba_37",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_38::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_38-Debug-42a6c008afa1665bb8ff.json",
+					"name" : "Laba_38",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_39::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_39-Debug-8dc7c15a3f00770e37a1.json",
+					"name" : "Laba_39",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_39new::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_39new-Debug-549a89c24e2e5e69082f.json",
+					"name" : "Laba_39new",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_39newnew::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_39newnew-Debug-f239c13ab197184a0317.json",
+					"name" : "Laba_39newnew",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Psinus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Psinus-Debug-213d0da3795d79aff23e.json",
+					"name" : "Psinus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Psinus2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Psinus2-Debug-25752c4673c1d8c251a6.json",
+					"name" : "Psinus2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Psinus3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Psinus3-Debug-6af9654dcc66d98f11fb.json",
+					"name" : "Psinus3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Programming_C++/Study_Projects/Laby/Laba 3/cmake-build-debug",
+		"source" : "C:/Programming_C++/Study_Projects/Laby/Laba 3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

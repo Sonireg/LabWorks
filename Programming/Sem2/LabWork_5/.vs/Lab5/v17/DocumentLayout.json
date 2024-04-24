@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming_C#\\StudyProjects\\Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D91FFA3F-E629-4ABC-AEF1-62A716303587}|Lab5\\Lab5.csproj|d:\\programming_c#\\studyprojects\\lab5\\lab5\\lab5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D91FFA3F-E629-4ABC-AEF1-62A716303587}|Lab5\\Lab5.csproj|solutionrelative:lab5\\lab5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab5",
+              "DocumentMoniker": "D:\\Programming_C#\\StudyProjects\\Lab5\\Lab5\\Lab5.csproj",
+              "RelativeDocumentMoniker": "Lab5\\Lab5.csproj",
+              "ToolTip": "D:\\Programming_C#\\StudyProjects\\Lab5\\Lab5\\Lab5.csproj",
+              "RelativeToolTip": "Lab5\\Lab5.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T09:58:35.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

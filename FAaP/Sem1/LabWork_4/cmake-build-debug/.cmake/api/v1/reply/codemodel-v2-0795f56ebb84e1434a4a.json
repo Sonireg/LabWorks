@@ -1,0 +1,204 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Laba_4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_41::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_41-Debug-682bee57ac04c73ae3bb.json",
+					"name" : "Laba_41",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_410::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_410-Debug-cc1983af04796dde01cb.json",
+					"name" : "Laba_410",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_411::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_411-Debug-bbb1a6ba0cf2adb0ffeb.json",
+					"name" : "Laba_411",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_412::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_412-Debug-ffb58656a0bb37674487.json",
+					"name" : "Laba_412",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_413::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_413-Debug-420fc205ad29c143b044.json",
+					"name" : "Laba_413",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_413exp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_413exp-Debug-48d6a6830cb2131515b2.json",
+					"name" : "Laba_413exp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_42::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_42-Debug-28a023a0b4bdb4c2062b.json",
+					"name" : "Laba_42",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_43::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_43-Debug-0a357b173d4d23a4c362.json",
+					"name" : "Laba_43",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_44::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_44-Debug-8358384f965cb03fed3b.json",
+					"name" : "Laba_44",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_45::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_45-Debug-1af4125b4f21623a339a.json",
+					"name" : "Laba_45",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_46::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_46-Debug-b711a50e3b9de260b44b.json",
+					"name" : "Laba_46",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_47::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_47-Debug-935e877deb27cd9b07b3.json",
+					"name" : "Laba_47",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_48::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_48-Debug-302c605cca89aeecb152.json",
+					"name" : "Laba_48",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_49::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_49-Debug-c78486de30fbba267c68.json",
+					"name" : "Laba_49",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Laba_49new::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Laba_49new-Debug-0d4d5465fe4b47b39395.json",
+					"name" : "Laba_49new",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calc-Debug-3acfeb6719659579ee73.json",
+					"name" : "calc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "secret::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-secret-Debug-dc3e36615f0c0d04ea0c.json",
+					"name" : "secret",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Programming_C++/Study_Projects/Laby/Laba 4/cmake-build-debug",
+		"source" : "D:/Programming_C++/Study_Projects/Laby/Laba 4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

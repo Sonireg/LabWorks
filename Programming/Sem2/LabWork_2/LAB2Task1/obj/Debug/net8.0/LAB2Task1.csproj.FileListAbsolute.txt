@@ -1,0 +1,14 @@
+D:\Programming_C#\StudyProjects\LAB2\LAB2Task1\bin\Debug\net8.0\LAB2Task1.exe
+D:\Programming_C#\StudyProjects\LAB2\LAB2Task1\bin\Debug\net8.0\LAB2Task1.deps.json
+D:\Programming_C#\StudyProjects\LAB2\LAB2Task1\bin\Debug\net8.0\LAB2Task1.runtimeconfig.json
+D:\Programming_C#\StudyProjects\LAB2\LAB2Task1\bin\Debug\net8.0\LAB2Task1.dll
+D:\Programming_C#\StudyProjects\LAB2\LAB2Task1\bin\Debug\net8.0\LAB2Task1.pdb
+D:\Programming_C#\StudyProjects\LAB2\LAB2Task1\obj\Debug\net8.0\LAB2Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming_C#\StudyProjects\LAB2\LAB2Task1\obj\Debug\net8.0\LAB2Task1.AssemblyInfoInputs.cache
+D:\Programming_C#\StudyProjects\LAB2\LAB2Task1\obj\Debug\net8.0\LAB2Task1.AssemblyInfo.cs
+D:\Programming_C#\StudyProjects\LAB2\LAB2Task1\obj\Debug\net8.0\LAB2Task1.csproj.CoreCompileInputs.cache
+D:\Programming_C#\StudyProjects\LAB2\LAB2Task1\obj\Debug\net8.0\LAB2Task1.dll
+D:\Programming_C#\StudyProjects\LAB2\LAB2Task1\obj\Debug\net8.0\refint\LAB2Task1.dll
+D:\Programming_C#\StudyProjects\LAB2\LAB2Task1\obj\Debug\net8.0\LAB2Task1.pdb
+D:\Programming_C#\StudyProjects\LAB2\LAB2Task1\obj\Debug\net8.0\LAB2Task1.genruntimeconfig.cache
+D:\Programming_C#\StudyProjects\LAB2\LAB2Task1\obj\Debug\net8.0\ref\LAB2Task1.dll

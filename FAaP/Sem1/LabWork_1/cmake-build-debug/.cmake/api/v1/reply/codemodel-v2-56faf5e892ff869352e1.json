@@ -1,0 +1,168 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Laba_1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "l11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-l11-Debug-59c46049c2270368c3b5.json",
+					"name" : "l11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "l12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-l12-Debug-8393820d3aadcbe6fec2.json",
+					"name" : "l12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "l13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-l13-Debug-c15ebc87995e3e0f0bb8.json",
+					"name" : "l13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "l14::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-l14-Debug-517497bd6b83531e03c3.json",
+					"name" : "l14",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "l15::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-l15-Debug-7e6732a90f9688bfa25e.json",
+					"name" : "l15",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "l161::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-l161-Debug-4cc87f0fd582db710081.json",
+					"name" : "l161",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "l162::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-l162-Debug-62877b94af7270112747.json",
+					"name" : "l162",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "l163::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-l163-Debug-4519d0152d50dabde77b.json",
+					"name" : "l163",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "l167::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-l167-Debug-2792bdec90b116c22dae.json",
+					"name" : "l167",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "l168::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-l168-Debug-0cd40404aa6e14ebc129.json",
+					"name" : "l168",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "l17::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-l17-Debug-7373ef2663196a223ff0.json",
+					"name" : "l17",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "l18::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-l18-Debug-1483dee3283279adfa28.json",
+					"name" : "l18",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "l19::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-l19-Debug-a9e5c83a8f492349b76a.json",
+					"name" : "l19",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Programming/Laby/Laba 1/cmake-build-debug",
+		"source" : "D:/Programming/Laby/Laba 1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

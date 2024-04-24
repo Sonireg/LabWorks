@@ -1,0 +1,14 @@
+D:\Programming_C#\StudyProjects\Lab7\obj\Debug\net8.0\Lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming_C#\StudyProjects\Lab7\obj\Debug\net8.0\Lab7.AssemblyInfoInputs.cache
+D:\Programming_C#\StudyProjects\Lab7\obj\Debug\net8.0\Lab7.AssemblyInfo.cs
+D:\Programming_C#\StudyProjects\Lab7\obj\Debug\net8.0\Lab7.csproj.CoreCompileInputs.cache
+D:\Programming_C#\StudyProjects\Lab7\bin\Debug\net8.0\Lab7.exe
+D:\Programming_C#\StudyProjects\Lab7\bin\Debug\net8.0\Lab7.deps.json
+D:\Programming_C#\StudyProjects\Lab7\bin\Debug\net8.0\Lab7.runtimeconfig.json
+D:\Programming_C#\StudyProjects\Lab7\bin\Debug\net8.0\Lab7.dll
+D:\Programming_C#\StudyProjects\Lab7\bin\Debug\net8.0\Lab7.pdb
+D:\Programming_C#\StudyProjects\Lab7\obj\Debug\net8.0\Lab7.dll
+D:\Programming_C#\StudyProjects\Lab7\obj\Debug\net8.0\refint\Lab7.dll
+D:\Programming_C#\StudyProjects\Lab7\obj\Debug\net8.0\Lab7.pdb
+D:\Programming_C#\StudyProjects\Lab7\obj\Debug\net8.0\Lab7.genruntimeconfig.cache
+D:\Programming_C#\StudyProjects\Lab7\obj\Debug\net8.0\ref\Lab7.dll

@@ -1,0 +1,14 @@
+D:\Programming_C#\StudyProjects\Lab6\bin\Debug\net8.0\Lab6.exe
+D:\Programming_C#\StudyProjects\Lab6\bin\Debug\net8.0\Lab6.deps.json
+D:\Programming_C#\StudyProjects\Lab6\bin\Debug\net8.0\Lab6.runtimeconfig.json
+D:\Programming_C#\StudyProjects\Lab6\bin\Debug\net8.0\Lab6.dll
+D:\Programming_C#\StudyProjects\Lab6\bin\Debug\net8.0\Lab6.pdb
+D:\Programming_C#\StudyProjects\Lab6\obj\Debug\net8.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming_C#\StudyProjects\Lab6\obj\Debug\net8.0\Lab6.AssemblyInfoInputs.cache
+D:\Programming_C#\StudyProjects\Lab6\obj\Debug\net8.0\Lab6.AssemblyInfo.cs
+D:\Programming_C#\StudyProjects\Lab6\obj\Debug\net8.0\Lab6.csproj.CoreCompileInputs.cache
+D:\Programming_C#\StudyProjects\Lab6\obj\Debug\net8.0\Lab6.dll
+D:\Programming_C#\StudyProjects\Lab6\obj\Debug\net8.0\refint\Lab6.dll
+D:\Programming_C#\StudyProjects\Lab6\obj\Debug\net8.0\Lab6.pdb
+D:\Programming_C#\StudyProjects\Lab6\obj\Debug\net8.0\Lab6.genruntimeconfig.cache
+D:\Programming_C#\StudyProjects\Lab6\obj\Debug\net8.0\ref\Lab6.dll

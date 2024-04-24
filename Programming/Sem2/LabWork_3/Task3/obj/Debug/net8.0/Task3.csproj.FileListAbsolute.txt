@@ -1,0 +1,14 @@
+D:\Programming_C#\StudyProjects\Lab3\Task3\bin\Debug\net8.0\Task3.exe
+D:\Programming_C#\StudyProjects\Lab3\Task3\bin\Debug\net8.0\Task3.deps.json
+D:\Programming_C#\StudyProjects\Lab3\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+D:\Programming_C#\StudyProjects\Lab3\Task3\bin\Debug\net8.0\Task3.dll
+D:\Programming_C#\StudyProjects\Lab3\Task3\bin\Debug\net8.0\Task3.pdb
+D:\Programming_C#\StudyProjects\Lab3\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming_C#\StudyProjects\Lab3\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+D:\Programming_C#\StudyProjects\Lab3\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+D:\Programming_C#\StudyProjects\Lab3\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+D:\Programming_C#\StudyProjects\Lab3\Task3\obj\Debug\net8.0\Task3.dll
+D:\Programming_C#\StudyProjects\Lab3\Task3\obj\Debug\net8.0\refint\Task3.dll
+D:\Programming_C#\StudyProjects\Lab3\Task3\obj\Debug\net8.0\Task3.pdb
+D:\Programming_C#\StudyProjects\Lab3\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+D:\Programming_C#\StudyProjects\Lab3\Task3\obj\Debug\net8.0\ref\Task3.dll

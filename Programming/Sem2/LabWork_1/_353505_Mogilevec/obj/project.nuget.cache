@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pRld5mc44IrJRidVlyjtG6UqTWatoAy/F2QJHBvSXH98J5NR6U32MGX3Uf7umG5faWkX4vffRhJocW8MD5HhJQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programming_C#\\StudyProjects\\LABA1\\_353505_Mogilevec\\_353505_Mogilevec.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Денис\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Денис\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Денис\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Денис\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Денис\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ProductsInOrderWidget</class>
+ <widget class="QWidget" name="ProductsInOrderWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1187</width>
+    <height>591</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QWidget" name="gridLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>30</y>
+     <width>891</width>
+     <height>371</height>
+    </rect>
+   </property>
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="1" column="1" colspan="2">
+     <widget class="QPushButton" name="deletingButton">
+      <property name="text">
+       <string>Удалить товар</string>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="1">
+     <widget class="QPushButton" name="sortingButton">
+      <property name="text">
+       <string>Сортировать по</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="0" rowspan="5">
+     <widget class="QTableWidget" name="productsInOrderTable"/>
+    </item>
+    <item row="0" column="2">
+     <widget class="QComboBox" name="addingComboBox">
+      <item>
+       <property name="text">
+        <string>Имени</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Номеру</string>
+       </property>
+      </item>
+     </widget>
+    </item>
+    <item row="2" column="1" colspan="2">
+     <widget class="QPushButton" name="changingButton">
+      <property name="text">
+       <string>Изменить количество</string>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="2">
+     <widget class="QComboBox" name="sortingComboBox">
+      <item>
+       <property name="text">
+        <string>Номеру (по возрастанию)</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Номеру (по убыванию)</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Имени (по возрастанию)</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Имени (по убыванию))</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Количеству (по возрастанию)</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Количеству (по убыванию)</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Итоговой цене (по возрастанию)</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Итоговой цене (по убыванию)</string>
+       </property>
+      </item>
+     </widget>
+    </item>
+    <item row="0" column="1">
+     <widget class="QPushButton" name="prodAddingButton">
+      <property name="text">
+       <string>Добавить товар по</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="1" colspan="2">
+     <widget class="QLabel" name="label">
+      <property name="text">
+       <string>Имя заказчика:  Цена заказа:</string>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
